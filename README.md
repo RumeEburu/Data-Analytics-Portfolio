@@ -7,7 +7,7 @@ Rume is a data analyst and problem solver passionate about helping businesses gr
 He creates clean, minimalist dashboards with strong focust on KPIs  that help stakeholders make fast, accurate decisions. ![Image](Dashboards.jpeg)
 
 ### Training & Analyst Mentorship
-He trains and mentors aspiring analysts through real-world projects, simple explanations, and practical thinking.
+He trains and mentors aspiring analysts through real-world projects, simple explanations, and practical thinking. ![Inage]
 
 ### Business & Performance Analysis
 He analyzes workflows, staff performance, customer behavior, and financial patterns to improve efficiency and results.
