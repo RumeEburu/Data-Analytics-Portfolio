@@ -26,3 +26,10 @@ I analyzed 10,000 patient admissions (2021–2024) for WellLife General Hospital
 ![Image](Project 2 - Automated Production Tracker.jpeg)
 I developed an automated variance analysis tracker to monitor rig locations against production targets. Investigation revealed that only one location consistently met goals, with training hours directly affecting output. My tracker automated reporting, enabling weekly monitoring, better training allocation, and improved production across all sites. [View Report Here](https://docs.google.com/spreadsheets/d/1eqpYR7A_cGHYDZ0blQFnAmbMly2OvsuJ/edit?usp=sharing&ouid=117985651197630752603&rtpof=true&sd=true)
 
+## Contact Me
+
+[Phone](+2349050220346)
+[Linkedin](www.linkedin.com/in/rumeeburu)
+[Mail](rume964@gmail.com)
+[Download my CV](https://drive.google.com/drive/folders/1fCHwBVYkf7W2qlezWjQ5LIwoyyYZPKHw)
+
