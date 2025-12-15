@@ -1,6 +1,6 @@
 # Data-Analytics-Portfolio
 ## About
-Rume is a data analyst, educator, and consultant with a sharp instinct for turning raw data into actionable insight. With hands-on experience across sales, operations, finance, and customer service, he helps businesses cut through noise, solve real problems, and unlock sustainable growth.
+Rume is a data analyst and problem solver passionate about helping businesses grow using data. Through his work with one of the top Data Analytics Institutes worldwide, Skillahead Academy, he empowers data professionals to become confident analysts. He aspires to lead a data consultancy helping African businesses make smarter decisions. He has trained over 200+ students and built data dashboards, increasing team productivity by a huge margin.
 ## Skills
 
 ### Data Visualization & Reporting (Power BI, Excel, SQL)
