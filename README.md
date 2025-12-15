@@ -13,5 +13,5 @@ One of the things that I also do so well is that I train and mentor aspiring ana
 
 
 ### Course Content Creation
-Rume also develops practical data analytics courses and YouTube tutorials that simplify complex concepts into real-world skills. [View my tutorials](https://www.youtube.com/@rumeeburu3648/videos) ![Image](Rume's YouTube.jpeg)
+I also also develop practical data analytics courses and YouTube tutorials that simplify complex data concepts that helps data professionals thrive in their space. [View my tutorials](https://www.youtube.com/@rumeeburu3648/videos) ![Image](Rume's YouTube.jpeg)
 
