@@ -4,7 +4,7 @@ Rume is a data analyst, educator, and consultant with a sharp instinct for turni
 ## Skills
 
 ### Data Visualization & Reporting (Power BI, Excel, SQL)
-He designs clean, minimalist dashboards with strong KPI logic and decision-focused storytelling.
+He designs clean, minimalist dashboards with strong KPI logic and decision-focused storytelling. ![Image](Dashboards.jpeg)
 
 ### Training & Analyst Mentorship
 He trains and mentors aspiring analysts through real-world projects, simple explanations, and practical thinking.
