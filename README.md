@@ -9,5 +9,6 @@ He creates clean, minimalist dashboards with strong focust on KPIs  that help st
 ### Training & Analyst Mentorship
 He trains and mentors aspiring analysts through real-world projects, simple explanations, and practical thinking. ![Image](Training 2.jpeg)
 
-### Business & Performance Analysis
-He analyzes workflows, staff performance, customer behavior, and financial patterns to improve efficiency and results.
+### Course Content Creation
+He develops practical data analytics courses and YouTube tutorials that simplify complex concepts into real-world skills.
+
