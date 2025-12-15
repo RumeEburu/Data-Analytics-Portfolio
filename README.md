@@ -1,6 +1,6 @@
 ## About
 Hello,
-I am Rume Eburu a data analyst and problem solver passionate about helping businesses grow using data. Through my work with one of the top Data Analytics Institutes worldwide, Skillahead Academy, I empower data professionals to become confident analysts. I aspire to lead a data consultancy helping African businesses make smarter decisions. I have has trained over 500+ students and built data dashboards, that increases team productivity by a huge margin.
+I am Rume Eburu a data analyst and problem solver passionate about helping businesses grow using data. Through my work with one of the top Data Analytics Institutes worldwide, [Skillahead Academy](https://www.linkedin.com/company/skillahead/posts/?feedView=all), I empower data professionals to become confident analysts. I aspire to lead a data consultancy helping African businesses make smarter decisions. I have has trained over 500+ students and built data dashboards, that increases team productivity by a huge margin.
 
 
 ## Skills
