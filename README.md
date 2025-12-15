@@ -33,5 +33,5 @@ I developed an automated variance analysis tracker to monitor rig locations agai
 - [Phone](+2349050220346)
 - [Linkedin](www.linkedin.com/in/rumeeburu)
 - [Mail](rume964@gmail.com)
-- [Download my CV](https://drive.google.com/drive/folders/1fCHwBVYkf7W2qlezWjQ5LIwoyyYZPKHw)
+- [Download my CV](Rume Eburu CV.pdf)
 
