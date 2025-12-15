@@ -10,5 +10,5 @@ He creates clean, minimalist dashboards with strong focust on KPIs  that help st
 He trains and mentors aspiring analysts through real-world projects, simple explanations, and practical thinking. ![Image](Training 2.jpeg)
 
 ### Course Content Creation
-He develops practical data analytics courses and YouTube tutorials that simplify complex concepts into real-world skills.
+He develops practical data analytics courses and YouTube tutorials that simplify complex concepts into real-world skills. ![Image](Rume's YouTube.jpeg)
 
