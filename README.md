@@ -9,9 +9,12 @@ I really shine in creating clean, minimalist dashboards with a strong focus on K
 
 
 ### Training & Analyst Mentorship
-One of the things that I also do so well is train and mentor aspiring analysts through real-world projects, simple explanations, and practical thinking. [View my trainings](https://www.linkedin.com/posts/rumeeburu_our-4-week-data-analytics-training-usually-activity-7393307457403392001-YgIi?) ![Image](Training 2.jpeg)
+One of the things that I also do so well is train and mentor aspiring analysts through real-world projects, simple explanations, and practical thinking. [View my trainings]([https://www.linkedin.com/posts/rumeeburu_our-4-week-data-analytics-training-usually-activity-7393307457403392001-YgIi?](https://www.linkedin.com/posts/rumeeburu_mr-rume-youre-the-best-i-got-this-activity-7345000468143583233-kQpa?) ![Image](Training 2.jpeg)
 
 
 ### Course Content Creation
 I also develop practical data analytics courses and YouTube tutorials that simplify complex data concepts, helping data professionals thrive in their space. [View my tutorials](https://www.youtube.com/@rumeeburu3648/videos) ![Image](Rume's YouTube.jpeg)
 
+
+## My Projects
+### 
