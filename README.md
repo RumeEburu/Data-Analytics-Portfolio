@@ -17,4 +17,5 @@ I also develop practical data analytics courses and YouTube tutorials that simpl
 
 
 ## My Projects
-### I analyzed 10,000 patient admissions (2021–2024) for WellLife General Hospital. While malaria and typhoid dominated previous years, 2024 showed a rise in hypertension and stroke cases, with typhoid dropping off entirely. My insights guided the hospital to reallocate resources and shift from general to specialized care, preventing wasteful spending on outdated patient trends. [View Report Here](https://drive.google.com/file/d/1xgE8QB28VsKZN-lgD-HtnImx9Gz8qvYh/view?usp=sharing)
+### WellLife General Hospital – Patient Admissions Analysis (2021–2024)
+I analyzed 10,000 patient admissions (2021–2024) for WellLife General Hospital. While malaria and typhoid dominated previous years, 2024 showed a rise in hypertension and stroke cases, with typhoid dropping off entirely. My insights guided the hospital to reallocate resources and shift from general to specialized care, preventing wasteful spending on outdated patient trends. [View Report Here](https://drive.google.com/file/d/1xgE8QB28VsKZN-lgD-HtnImx9Gz8qvYh/view?usp=sharing)
