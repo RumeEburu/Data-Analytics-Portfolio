@@ -5,15 +5,18 @@ I am Rume Eburu, a data analyst and problem solver passionate about helping busi
 
 ## Skills
 ### Data Visualization & Reporting (Power BI, Excel, SQL)
-I really shine in creating clean, minimalist dashboards with a strong focus on KPIs  that help stakeholders make fast, accurate decisions. [Check out a few here](https://www.linkedin.com/posts/rumeeburu_data-analytics-uiux-a-friend-of-mine-activity-7367098529493770241-va1V?) ![Image](Dashboards.jpeg)
+![Image](Dashboards.jpeg)
+I really shine in creating clean, minimalist dashboards with a strong focus on KPIs  that help stakeholders make fast, accurate decisions. [Check out a few here](https://www.linkedin.com/posts/rumeeburu_data-analytics-uiux-a-friend-of-mine-activity-7367098529493770241-va1V?) 
 
 
 ### Training & Analyst Mentorship
-One of the things that I also do so well is train and mentor aspiring analysts through real-world projects, simple explanations, and practical thinking. [View my trainings](https://www.linkedin.com/posts/rumeeburu_our-4-week-data-analytics-training-usually-activity-7393307457403392001-YgIi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4MlUQBY3VPNFFLDx9hkaannILzXsKcSxA) ![Image](Training 2.jpeg)
+![Image](Training 2.jpeg)
+One of the things that I also do so well is train and mentor aspiring analysts through real-world projects, simple explanations, and practical thinking. [View my trainings](https://www.linkedin.com/posts/rumeeburu_our-4-week-data-analytics-training-usually-activity-7393307457403392001-YgIi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4MlUQBY3VPNFFLDx9hkaannILzXsKcSxA) 
 
 
 ### Course Content Creation
-I also develop practical data analytics courses and YouTube tutorials that simplify complex data concepts, helping data professionals thrive in their space. [View my tutorials](https://www.youtube.com/@rumeeburu3648/videos) ![Image](Rume's YouTube.jpeg)
+[Image](Rume's YouTube.jpeg)
+I also develop practical data analytics courses and YouTube tutorials that simplify complex data concepts, helping data professionals thrive in their space. [View my tutorials](https://www.youtube.com/@rumeeburu3648/videos) !
 
 
 ## My Projects
@@ -27,7 +30,6 @@ I analyzed 10,000 patient admissions (2021–2024) for WellLife General Hospital
 I developed an automated variance analysis tracker to monitor rig locations against production targets. Investigation revealed that only one location consistently met goals, with training hours directly affecting output. My tracker automated reporting, enabling weekly monitoring, better training allocation, and improved production across all sites. [View Report Here](https://docs.google.com/spreadsheets/d/1eqpYR7A_cGHYDZ0blQFnAmbMly2OvsuJ/edit?usp=sharing&ouid=117985651197630752603&rtpof=true&sd=true)
 
 ## Contact Me
-
 [Phone](+2349050220346)
 [Linkedin](www.linkedin.com/in/rumeeburu)
 [Mail](rume964@gmail.com)
